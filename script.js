@@ -12,6 +12,6 @@ function palindrome(str){
 		}
 	}
 
-	return {message : flag};
+	return flag;
 }
 module.exports = palindrome
